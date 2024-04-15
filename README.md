@@ -7,7 +7,7 @@ Para realizar el ejercicio necesitamos:
 - Xampp: [Descargar Xampp](https://www.apachefriends.org/es/download.html)
 - Composer: [Descargar Composer](https://getcomposer.org/download/​)
 - Visual Studio Code: [Descargar VSCode](https://code.visualstudio.com)
-- Android Studio: [Descargar Android Studio](https://developer.android.com/) De este en específico, para realizar el ejercicio usamos la versión Flamingo, así que, para evitar conflictos a causa de los cambios en las versiones, les recomendamos descargar esa versión.
+- Android Studio: [Descargar Android Studio](https://developer.android.com/). De este en específico, para realizar el ejercicio usamos la versión Flamingo, así que, para evitar conflictos a causa de los cambios en las versiones, les recomendamos descargar esa versión.
 - Recursos de imagen: [Descargar los recursos de imagen](https://shorturl.at/pRVY5)
 
 ## Link de la exposición
