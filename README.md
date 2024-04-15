@@ -21,7 +21,7 @@ Es necesario cambiar el valor de BASEURL para que contenga la dirección en la q
 
 Suponiendo que hicieran todo lo demás igual (incluso nombrar a la base de datos de la misma manera), ese debería ser el único cambio necesario para usar directamente el código que hemos proporcionado.
 
-Para ir al archivo del que hablamos en este repositorio, da clic aquí: [**Config.java**](https://github.com/LuzR25/Ejercicio_Laravel/blob/ace221c03644afdc7a2a0aef04dd4a00474b0bce/Parte%20de%20Android/Multichat/app/src/main/java/com/example/multichat/Config/Config.java)
+*Para ir al archivo del que hablamos en este repositorio, da clic aquí: [**Config.java**](https://github.com/LuzR25/Ejercicio_Laravel/blob/ace221c03644afdc7a2a0aef04dd4a00474b0bce/Parte%20de%20Android/Multichat/app/src/main/java/com/example/multichat/Config/Config.java)
 
 ## Link de la exposición
 [Laravel con cliente Android](https://alumnosuady-my.sharepoint.com/:p:/g/personal/a20216883_alumnos_uady_mx/EbCLaK84xu1MoYY4FrBKHAABI9qQ-Z1_nmNBb6XTWz3nMQ?e=n6FNYV)
