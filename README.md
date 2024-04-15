@@ -11,15 +11,15 @@ Para realizar el ejercicio necesitamos:
 - **Recursos de imagen:** [Descargar los recursos de imagen](https://shorturl.at/pRVY5)
 
 ## Intrucciones de uso del código
-Si desean usar directamente el código que está proporcionado aquí, entonces hay que hacer un cambio muy importante en uno de los archivos. Hay que ir al archivo llamado Config.java de la parte de Android, y modificar la línea 10. 
+Si desean usar directamente el código que está proporcionado aquí, entonces hay que hacer un cambio muy importante en uno de los archivos. Hay que ir al archivo llamado Config.java de la parte de Android, y modificar la línea 10, que es la que sigue:
 
 ```java
 public static final String BASEURL = "http://192.168.1.66/arequipa/public/api/";
 ```
 
-| [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Competencias.md#competencias-de-la-asignatura "Anterior") 
-| [Inicio](https://github.com/Geovanna-med/Enterate "Inicio") 
-| [Siguiente](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Bit%C3%A1cora.md "Siguiente") |
+Es necesario cambiar el valor de BASEURL para que contenga la dirección en la que su servidor está corriendo, pues ahí aparece la que teníamos nosotros en una red específica, y, como ya bien sabrán, la dirección será diferente para ustedes cuando corran el código en sus propias computadoras. Suponiendo que hicieran todo lo demás igual (incluso nombrar a la base de datos de la misma manera), ese debería ser el único cambio necesario para usar directamente el código que hemos proporcionado.
+
+Para ir al archivo del que hablamos en este repositorio, da clic aquí: [**Config.java**](https://github.com/LuzR25/Ejercicio_Laravel/blob/ace221c03644afdc7a2a0aef04dd4a00474b0bce/Parte%20de%20Android/Multichat/app/src/main/java/com/example/multichat/Config/Config.java)
 
 ## Link de la exposición
 [Laravel con cliente Android](https://alumnosuady-my.sharepoint.com/:p:/g/personal/a20216883_alumnos_uady_mx/EbCLaK84xu1MoYY4FrBKHAABI9qQ-Z1_nmNBb6XTWz3nMQ?e=n6FNYV)
