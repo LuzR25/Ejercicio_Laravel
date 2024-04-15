@@ -17,7 +17,7 @@ Si desean usar directamente el código que está proporcionado aquí, entonces h
 public static final String BASEURL = "http://192.168.1.66/arequipa/public/api/";
 ```
 
-Es necesario cambiar el valor de BASEURL para que contenga la dirección en la que su servidor está corriendo, pues ahí aparece la que teníamos nosotros en una red específica, y, como ya bien sabrán, la dirección será diferente para ustedes cuando corran el código en sus propias computadoras. Por ejemplo, si servidor está corriendo en http://192.168.1.32, hay que modificar BASEURL para que, en lugar de que sea "192.168.1.66", sea "192.168.1.32". 
+Es necesario cambiar el valor de BASEURL para que contenga la dirección en la que su servidor está corriendo, pues ahí aparece la que teníamos nosotros en una red específica, y, como ya bien sabrán, la dirección será diferente para ustedes cuando corran el código en sus propias computadoras. Por ejemplo, si su servidor está corriendo en http://192.168.1.32, hay que modificar BASEURL para que, en lugar de que sea "192.168.1.66", sea "192.168.1.32". 
 
 Suponiendo que hicieran todo lo demás igual (incluso nombrar a la base de datos de la misma manera), ese debería ser el único cambio necesario para usar directamente el código que hemos proporcionado.
 
