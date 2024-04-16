@@ -26,6 +26,9 @@ Suponiendo que hicieran todo lo demás igual (incluso nombrar a la base de datos
 ## Link de la exposición
 [Laravel con cliente Android](https://alumnosuady-my.sharepoint.com/:p:/g/personal/a20216883_alumnos_uady_mx/EbCLaK84xu1MoYY4FrBKHAABI9qQ-Z1_nmNBb6XTWz3nMQ?e=n6FNYV)
 
+## Video del ejercicio
+Si desean revisar cómo hacer el ejercicio directo de la persona a la que seguimos, pueden checar este [video](https://youtu.be/O6oTOMbhKvQ?si=UjbdT8ZkOIwkECsO), pero sí es importante mencionar que algunas cosas que hace ya son obsoletas, así que estaría mejor que se basaran del código que ya les proporcionamos para evitar errores.
+
 ## Integrantes del equipo
 - Luz Rocío García Peña
 - Angel David Ricalde Ché
